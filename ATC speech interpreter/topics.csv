@@ -1,0 +1,107 @@
+SectionNum,Section,TopicLabel
+12.1,12.1 COMMUNICATIONS PROCEDURES,COMMUNICATIONS PROCEDURES
+12.2,12.2 GENERAL,GENERAL
+12.2.1,12.2.1 Plain language use,Plain language use
+12.2.10,12.2.10 Examples of use,Examples of use
+12.2.2,12.2.2 Grouping of phraseologies,Grouping of phraseologies
+12.2.3,12.2.3 Users of phraseologies,Users of phraseologies
+12.2.4,12.2.4 RVSM non-approved status reporting,RVSM non-approved status reporting
+12.2.5,12.2.5 Acknowledgement of non-RVSM status,Acknowledgement of non-RVSM status
+12.2.6,12.2.6 Vehicle phraseology,Vehicle phraseology
+12.2.7,12.2.7 Conditional clearances,Conditional clearances
+12.2.8,12.2.8 Scope of listed phrases,Scope of listed phrases
+12.2.9,12.2.9 Parentheses and brackets,Parentheses and brackets
+12.3.1.1,12.3.1.1 Description of Levels,Description of Levels
+12.3.1.10,12.3.1.10 Additional Reports,Additional Reports
+12.3.1.11,12.3.1.11 Aerodrome Information,Aerodrome Information
+12.3.1.12,12.3.1.12 Operational Status of Visual and Non-visual Aids,Operational Status of Visual and Non-visual Aids
+12.3.1.13,12.3.1.13 RVSM Operations,RVSM Operations
+12.3.1.14,12.3.1.14 GNSS Service Status,GNSS Service Status
+12.3.1.15,12.3.1.15 Degradation of Navigation Performance,Degradation of Navigation Performance
+12.3.1.2,"12.3.1.2 Level Changes, Reports and Rates","Level Changes, Reports and Rates"
+12.3.1.2,12.3.1.2 Level Changes / Reports and Rates,Level Changes / Reports and Rates
+12.3.1.3,12.3.1.3 Minimum Fuel,Minimum Fuel
+12.3.1.4,12.3.1.4 Transfer of Control / Frequency Change,Transfer of Control / Frequency Change
+12.3.1.5,12.3.1.5 8.33 kHz Channel Spacing,8.33 kHz Channel Spacing
+12.3.1.6,12.3.1.6 Change of Call Sign,Change of Call Sign
+12.3.1.7,12.3.1.7 Traffic Information,Traffic Information
+12.3.1.8,12.3.1.8 Meteorological Conditions,Meteorological Conditions
+12.3.1.9,12.3.1.9 Position Reporting,Position Reporting
+12.3.2.1,12.3.2.1 Issuance of a Clearance,Issuance of a Clearance
+12.3.2.2,12.3.2.2 Indication of Route and Clearance Limit,Indication of Route and Clearance Limit
+12.3.2.3,12.3.2.3 Maintenance of Specified Levels,Maintenance of Specified Levels
+12.3.2.4,12.3.2.4 Specification of Cruising Levels,Specification of Cruising Levels
+12.3.2.5,12.3.2.5 Emergency Descent,Emergency Descent
+12.3.2.6,12.3.2.6 If Clearance Cannot Be Issued Immediately,If Clearance Cannot Be Issued Immediately
+12.3.2.7,12.3.2.7 When Clearance for Deviation Cannot Be Issued,When Clearance for Deviation Cannot Be Issued
+12.3.2.8,12.3.2.8 Separation Instructions,Separation Instructions
+12.3.2.9,12.3.2.9 Instructions Associated with Flying an Offset Track,Instructions Associated with Flying an Offset Track
+12.3.3.1,12.3.3.1 Departure Instructions,Departure Instructions
+12.3.3.2,12.3.3.2 Approach Instructions,Approach Instructions
+12.3.3.3,12.3.3.3 Holding Clearances,Holding Clearances
+12.3.3.4,12.3.3.4 Expected Approach Time,Expected Approach Time
+12.3.4.1,12.3.4.1 Identification of Aircraft,Identification of Aircraft
+12.3.4.10,12.3.4.10 Preparation for Take-off,Preparation for Take-off
+12.3.4.11,12.3.4.11 Take-off Clearance,Take-off Clearance
+12.3.4.12,12.3.4.12 Turn or Climb Instructions After Take-off,Turn or Climb Instructions After Take-off
+12.3.4.13,12.3.4.13 Entering Aerodrome Traffic Circuit,Entering Aerodrome Traffic Circuit
+12.3.4.14,12.3.4.14 In the Circuit,In the Circuit
+12.3.4.15,12.3.4.15 Approach Instructions,Approach Instructions
+12.3.4.16,12.3.4.16 Landing Clearance,Landing Clearance
+12.3.4.17,12.3.4.17 Delaying Aircraft,Delaying Aircraft
+12.3.4.18,12.3.4.18 Missed Approach,Missed Approach
+12.3.4.19,12.3.4.19 Information to Aircraft,Information to Aircraft
+12.3.4.2,12.3.4.2 Acknowledgement by Visual Means,Acknowledgement by Visual Means
+12.3.4.20,12.3.4.20 Runway Vacating and After-Landing Comms,Runway Vacating and After-Landing Comms
+12.3.4.3,12.3.4.3 Starting Procedures,Starting Procedures
+12.3.4.4,12.3.4.4 Pushback Procedures,Pushback Procedures
+12.3.4.5,12.3.4.5 Towing Procedures,Towing Procedures
+12.3.4.6,12.3.4.6 Request Time Check / Aerodrome Data,Request Time Check / Aerodrome Data
+12.3.4.7,12.3.4.7 Taxi Procedures,Taxi Procedures
+12.3.4.8,12.3.4.8 Holding,Holding
+12.3.4.9,12.3.4.9 To Cross a Runway,To Cross a Runway
+12.3.5.1,12.3.5.1 Estimates and Revisions,Estimates and Revisions
+12.3.5.2,12.3.5.2 Transfer of Control,Transfer of Control
+12.3.5.3,12.3.5.3 Change of Clearance,Change of Clearance
+12.3.5.4,12.3.5.4 Approval Request,Approval Request
+12.3.5.5,12.3.5.5 Inbound Release,Inbound Release
+12.3.5.6,12.3.5.6 Handover,Handover
+12.3.5.7,12.3.5.7 Expedition of Clearance,Expedition of Clearance
+12.3.5.8,12.3.5.8 RVSM Operations,RVSM Operations
+12.3.6.1,12.3.6.1 CPDLC Operational Status,CPDLC Operational Status
+12.4.1.1,12.4.1.1 Identification of Aircraft,Identification of Aircraft
+12.4.1.10,12.4.1.10 Termination of Radar/ADS-B Service,Termination of Radar/ADS-B Service
+12.4.1.11,12.4.1.11 Radar/ADS-B Equipment Degradation,Radar/ADS-B Equipment Degradation
+12.4.1.2,12.4.1.2 Position Information,Position Information
+12.4.1.3,12.4.1.3 Vectoring Instructions,Vectoring Instructions
+12.4.1.4,12.4.1.4 Termination of Vectoring,Termination of Vectoring
+12.4.1.5,12.4.1.5 Manoeuvres,Manoeuvres
+12.4.1.6,12.4.1.6 Speed Control,Speed Control
+12.4.1.7,12.4.1.7 Position Reporting,Position Reporting
+12.4.1.8,12.4.1.8 Traffic Information and Avoiding Action,Traffic Information and Avoiding Action
+12.4.1.9,12.4.1.9 Loss of Communications,Loss of Communications
+12.4.2.1,12.4.2.1 Vectoring for Approach,Vectoring for Approach
+12.4.2.2,12.4.2.2 Vectoring for ILS and Other Pilot-Interpreted Aids,Vectoring for ILS and Other Pilot-Interpreted Aids
+12.4.2.3,12.4.2.3 Manoeuvre During Parallel Approaches,Manoeuvre During Parallel Approaches
+12.4.2.4,12.4.2.4 Surveillance Radar Approach – Provision of Service,Surveillance Radar Approach – Provision of Service
+12.4.2.4.2,12.4.2.4.2 Elevation,Elevation
+12.4.2.4.4,12.4.2.4.4 Checks,Checks
+12.4.2.4.5,12.4.2.4.5 Completion of Approach,Completion of Approach
+12.4.2.5,12.4.2.5 Precision Approach Radar (PAR) – Provision of Service,Precision Approach Radar (PAR) – Provision of Service
+12.4.2.5.2,12.4.2.5.2 Communications,Communications
+12.4.2.5.3,12.4.2.5.3 Azimuth,Azimuth
+12.4.2.5.4,12.4.2.5.4 Elevation,Elevation
+12.4.2.5.5,12.4.2.5.5 Position,Position
+12.4.2.5.6,12.4.2.5.6 Checks,Checks
+12.4.2.5.7,12.4.2.5.7 Completion of Approach,Completion of Approach
+12.4.2.5.8,12.4.2.5.8 Missed Approach,Missed Approach
+12.4.3,12.4.3 SSR Phraseologies,SSR Phraseologies
+12.4.3.2,12.4.3.2 ADS-B Capability,ADS-B Capability
+12.4.3.3,12.4.3.3 Setting Transponder,Setting Transponder
+12.4.3.4,12.4.3.4 Reselect Assigned Mode/Code,Reselect Assigned Mode/Code
+12.5,12.5 Automatic Dependent Surveillance — Contract (ADS-C),Automatic Dependent Surveillance — Contract (ADS-C)
+12.6,12.6 Alerting Phraseologies,Alerting Phraseologies
+12.7,12.7 Ground Crew/Flight Crew Phraseologies,Ground Crew/Flight Crew Phraseologies
+12.7.2.1,12.7.2.1 Prior to De-/Anti-Icing (Ground Crew ↔ Flight Crew),Prior to De-/Anti-Icing (Ground Crew ↔ Flight Crew)
+12.7.2.2,12.7.2.2 Upon Concluding De-/Anti-Icing Procedure,Upon Concluding De-/Anti-Icing Procedure
+12.7.2.3,12.7.2.3 Abnormal Operations,Abnormal Operations
